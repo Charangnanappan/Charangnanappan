@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charan Gnanappan
 
-🎯 **Data Analyst** | MSc in Data Analytics | Dublin, Ireland
+🎯 **Data Engineer** | MSc in Data Analytics | Dublin, Ireland
 
 ---
 
